@@ -521,33 +521,24 @@ img {
   width: 90%;
 }
 .skills_js{
-  width: 90%;
-}
-.skills_react{
-  width: 90%;
+  width: 80%;
 }
 
-.skills_php{
-  width: 90%;
-}
 .skills_node{
-  width: 90%;
+  width: 70%;
 }
 .skills_firebase{
-  width: 90%;
+  width: 80%;
 }
 .skills_python{
-  width: 90%;
+  width: 80%;
 }
 
 .skills_figma{
-  width: 90%;
-}
-.skills_sketch{
-  width: 90%;
+  width: 70%;
 }
 .skills_photoshop{
-  width: 90%;
+  width: 75%;
 }
 
 .skills_close .skills_list{
