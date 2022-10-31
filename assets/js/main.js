@@ -64,7 +64,7 @@ tabs.forEach(tab =>{
         })
         target.classList.add('qualification_active')
 
-        tab.forEach(tab =>{
+        tabs.forEach(tab =>{
             tab.classList.remove('qualification_active')
         })
         tab.classList.add('qualification_active')
@@ -200,3 +200,20 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
+
+/*==================== CONTACT FORM ====================*/ 
+
+function sendEmail(){
+    Email.send({
+        SecureToken: "c75c87f6-5738-4600-bf33-24b09b068cf3",
+        To : 'abhinavrajputito@gmail.com',
+        From : 'abhinavrajputito@gmail.com',
+        Subject : "Portfolio website contact form.",
+        Body : "Name: "+document.getElementById("name").value
+              +"<br> Email: "+document.getElementById("email").value
+              +"<br> Project: "+document.getElementById("project").value
+              +"<br> Message: "+document.getElementById("message").value
+    }).then(
+      message => alert(message)
+    );
+}
