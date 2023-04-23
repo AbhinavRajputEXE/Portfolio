@@ -534,11 +534,17 @@ img {
 .skills_python{
   width: 80%;
 }
+.skills_react{
+  width: 60%;
+}
 
 .skills_figma{
   width: 70%;
 }
 .skills_photoshop{
+  width: 75%;
+}
+.skills_premiere{
   width: 75%;
 }
 
