@@ -1,6 +1,3 @@
-# Portfolio
-
-Abhinav Rajput's(That's me!) Portfolio website.
 # Abhinav Rajput's Portfolio
 
 ![Abhinav Rajput's Portfolio](https://abhinavrajputexe.netlify.app/)
