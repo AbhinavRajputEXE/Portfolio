@@ -1,0 +1,9 @@
+<svg viewBox="0 0 200 187" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mask id="mask0" mask-type="alpha">
+        <path d="M2.45775 97.8511L97.9666 0.00163737L174.193 10.857L190.312 36.4879L6.67581 34.5279L2.45775 97.8511Z"/>
+    </mask>
+    <g mask="url(#mask0)">
+        <path d="M2.45775 97.8511L97.9666 0.00163737L174.193 10.857L190.312 36.4879L6.67581 34.5279L2.45775 97.8511Z"/>
+        <image href=""/>
+    </g>
+</svg>
